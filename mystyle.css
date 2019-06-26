@@ -1,0 +1,32 @@
+*{
+margin:0px;
+padding:0px;
+}
+body{
+	text-align:center;
+}
+header, footer{
+	padding:30px;
+	background-color:#00B4DB;
+	
+}
+.main{
+	margin:5px;
+}
+nav{
+	background-color:#20e3b2;
+	height:50px;
+}
+section{
+	width:80%;
+	border:1px solid black;
+	float:right;
+	height:400px;
+	background-color:#FFEFBA;
+}
+.sidebar{
+	width:20%;
+	border:1px solid red;
+	height:400px;
+	background-color:#c471ed;
+}
